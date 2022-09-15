@@ -14,7 +14,7 @@
     <PackageReference Include="Discord.Net.Commands" Version="3.8.1" />
     <PackageReference Include="Discord.Net.Rest" Version="3.8.0" />
     <PackageReference Include="Discord.Net.Webhook" Version="3.8.1" />
-    <PackageReference Include="Discord.Net.WebSocket" Version="3.8.0" />
+    <PackageReference Include="Discord.Net.WebSocket" Version="3.8.1" />
   </ItemGroup>
 
 </Project>
